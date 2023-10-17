@@ -4,3 +4,4 @@ Vienkāršs UI/UX spēj uzlabot lietotāja pieredzi no vairākiem aspektiem:
 - Ir estētiski patīkamāks, jo UI nav pārbāzts.
 
 Komentāri: 
+ Miks: Manuprāt šī ir labākā ideja, jo svarīgākais ir, lai aplikāciju varētu vieglāk apgūt.
