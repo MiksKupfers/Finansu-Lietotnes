@@ -1,1 +1,4 @@
 Responsīvs jeb adaptīvs dizains, kas pielāgojas ierīču izmēriem (Piemēram, datoriem, planšetdatoriem un dažādu izmēru telefoniem).
+
+Komentāri:
+Miks: Svarīga funkcija visām mūsdienu aplikācijām un mājaslapām.
