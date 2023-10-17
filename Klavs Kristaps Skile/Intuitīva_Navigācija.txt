@@ -1,3 +1,6 @@
 Izstrādājot lietotni svarīgi nodrošināt lietotājiem intuitīvu navigāciju.
 Lietotnes hierarhija ir svarīgs elements intuitīvās navigācijas veidošanā.
 Šī hierarhija palīdz lietotājiem saprast, kā darbojas lietotne, kā arī veicina vienkāršu un efektīvu satura meklēšanu un izmantošanu.
+
+Komentāri:
+Miks: Izvēlos šo ideju.
