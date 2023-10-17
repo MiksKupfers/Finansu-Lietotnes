@@ -1,0 +1,3 @@
+Kļūdas paziņojumu apstrāde nodrošina lietotājiem iespēju saprast, ko tieši lietotājs dara nepareizi un kā to atrisināt.
+Kļūdas paziņojumiem ir jābūt skaidriem un saprotamiem un tie nevar būt pārāk Vispārināti.
+Piemēram, ievadot nepareizus datus e-pasta laukā izvadīt uz ekrāna paziņojumu "Nekorekts e-pasts".
