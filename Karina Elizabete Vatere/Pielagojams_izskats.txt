@@ -1,1 +1,4 @@
 Lietotāja saskarni uzlabotu iespēja katram izvēlēties pēc savām vēlmēm kādu motīvu/fonu katrs vēlas, t.i. izvēlēties "light-mode" vai "dark-mode", tas dod iespēju cilvēkam izvēlēties, kādā veidā, katram ērāk uztvert informāciju un kurš izskats ir patīkamāks
+
+Komentāri:
+Miks: Šī ir labākā ideja, jo light mode un dark mode ir ļoti svarīga funkcija mūsdienu aplikācijās/mājaslapās.
