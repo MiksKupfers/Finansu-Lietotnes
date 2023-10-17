@@ -4,3 +4,4 @@ Piemēram, ievadot nepareizus datus e-pasta laukā izvadīt uz ekrāna paziņoju
 
 Komentāri:
 Miks: Manuprāt, kļūdu paziņojumi ir svarīgs aspekts, taču no tiem ir jāmēģina izvairīties pēc iespējas vairāk. Nepieciešamības gadījumā tam ir jābūt, ļoti minimālam.
+Ralfs: Paziņojumi ir svarīgi, bet tie lietotājam ir jāpasniedz pareizi, lai tiem nebūtu bieži tie jāredz un neizraisa trauksmi un ideālākā gadijumā, saskarnei vajadzētu peč lietotāja ievades veikt korekcijas, ja kaut, kas nav pareizi, tad saskarne veic korekcijas un piedāvā tās, kā alternatīvu.
