@@ -1,0 +1,6 @@
+Vienkāršs UI/UX spēj uzlabot lietotāja pieredzi no vairākiem aspektiem:
+- Intuitīvs dizains nodrošina ātru aplikācijas apgūšanu;
+- Atvieglo lietotāju, jo ir mazāk lietas, kam pievērst uzmanību;
+- Ir estētiski patīkamāks, jo UI nav pārbāzts.
+
+Komentāri: 

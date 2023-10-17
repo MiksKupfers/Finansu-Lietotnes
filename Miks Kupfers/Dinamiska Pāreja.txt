@@ -1,0 +1,1 @@
+Manuprāt laba un ļoti pievilcīga ideja, būtu izveidot dinamisku navigācijas pāreju, piemēram, tinot mājaslapu zemāk tiek piedāvātas vairākas opcijas navigācijai, kura ir aktuāla noteiktajai nodaļai. Piemērs: https://www.audemarspiguet.com/com/en/home.html
