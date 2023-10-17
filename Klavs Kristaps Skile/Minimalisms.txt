@@ -1,0 +1,3 @@
+Minimālistisks UI dizains nodrošina lietotnes vienkāršu un ērtu lietošanu.
+To raksturo skaidras līnijas un neitrālas krāsas.
+Uzsvars tiek likts uz lietotnes funkcionalitāti, kas padara lietotāja pieredzi intuitīvu.
