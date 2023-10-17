@@ -1,2 +1,5 @@
 Izmantot minimālu dizianu, kas sevi ietver izskārtojumu, kurš ir ar gana lielām atstarpēm un netiek salikts viss vienviet. Tiek izmantotas atstarpes starp elementiem. Ideja palīdz klientam 
 uztvert dizainu / informāciju vieglāk un virzīt tā uzmanību uz svarīgājiem mājaslapas elementiem.
+
+Komentāri:
+Miks: Nav komentāru, jo šis jau tika pieminēts arī iepriekš. Ideja ir laba, taču manurpāt Dark Mode ideja ir labaka.
