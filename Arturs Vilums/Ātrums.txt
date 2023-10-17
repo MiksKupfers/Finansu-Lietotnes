@@ -6,3 +6,4 @@ un galvenokārt - nav kaitinoši
 
 Komentāri: 
 Miks: Manuprāt ātrums ir sarežģīts aspkets, kuru iekļaut mājaslapā. Jo ātrums parādas no tā cik bieži tu izmanto noteikto majaslapu. Mājaslapā, kurā tu esi pirmo reizi vienmēr viss būs lēnāk.
+Ralfs: Ne vienmēr ir iespējams ieviest ātrumu saskarnē tas ir ļoti atkarīgs no satura, kas mājos saskarnē, jo vairāk saturs, jo notiek sarežģītāki procesi rodas ilgāks, laiks to visu pārstrādāt.
