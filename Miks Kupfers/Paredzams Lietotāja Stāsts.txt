@@ -1,0 +1,1 @@
+Paredzama mājaslapas struktūra, kura ievēro loģisku informācijas struktūru un vienkāršotu ceļojumu pa mājaslapu. Lietotājiem jāspēj ātri saprast, kur atrodas, un kādā secībā var apskatīt saturu. 
