@@ -5,4 +5,4 @@
 un galvenokārt - nav kaitinoši
 
 Komentāri: 
-
+Miks: Manuprāt ātrums ir sarežģīts aspkets, kuru iekļaut mājaslapā. Jo ātrums parādas no tā cik bieži tu izmanto noteikto majaslapu. Mājaslapā, kurā tu esi pirmo reizi vienmēr viss būs lēnāk.
