@@ -1,2 +1,6 @@
 Skaidri izvietota navigācija, vienkāršota un skaidra navigācija, lai uzlabotu lietotāju pieredzi. Nodrošinot, ka galvenie izvēlnes punkti ir skaidri redzami un viegli sasniedzami, lai lietotāji varētu atrast vajadzīgo informāciju bez lieka klikšķināšanas.
 Esmu šo novērojis banku mājaslapās, kur informācija privātpersonām ir sarezģīti atrodama. Visizteiktākā šāda veida problēma ir manalatvija.lv, kur pareizo informāciju ir ļoti sarežģīti atrast.
+
+
+Komentāri:
+Ralfs: Piekrītu, ka ideja ir ļoti svarīga un tādām lapām, ka manalatvija.lv būtu jāpārveido viņu saturs, lai tas būtu ātrāk un vieglak atrodams. Bet tādas problēmas parasti rodas, kad ir liels infomrācijas apjoms par vienu konkrētu lietu un ne vienmēr pilnība var izvairīties no šadas situācijas itīpaši tādos svarīgos procesos, kas notiek bankas vidē vai arī manalatvija.
