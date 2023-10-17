@@ -1,2 +1,5 @@
 Atsaucīgs dizains, jeb "responsive design" ir svarīgs, lai saskarne būtu vizuāli pievilcīga un darbotos bez kļūdām, 
 piemēram, pogas un citi logi/rāmji pielāgotos ekrāna izmēram atkarībā no tā, no kādas ierīces (tālruņa, datora, planšetes) programmatūra tiek skatīta
+
+Komentāri:
+Miks: Svarīga funckija visām mūsdienu aplikācijām un mājaslapām, tādēļ arī neizvēlos kā labāko ideju.
