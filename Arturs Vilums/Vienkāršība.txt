@@ -5,3 +5,5 @@ Vienkāršs UI/UX spēj uzlabot lietotāja pieredzi no vairākiem aspektiem:
 
 Komentāri: 
  Miks: Manuprāt šī ir labākā ideja, jo svarīgākais ir, lai aplikāciju varētu vieglāk apgūt.
+ Ralfs: Ideja ir laba, bet ne visam var piemērot šo metodoloģiju, jo dažas lietas nevar pasniegt vienkāršā UI, jo ja sarežģītāku lietu sāk dalīt saprotamākās daļās 
+ rodas daudz jaunu elementu, kas aizpilda UI, bet lietas, kuras var viegli pasniegt domāju tām ideja ir jaizmanto.
