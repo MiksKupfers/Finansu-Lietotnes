@@ -9,3 +9,4 @@ Miks: Manuprāt ātrums ir sarežģīts aspkets, kuru iekļaut mājaslapā. Jo �
 Ralfs: Ne vienmēr ir iespējams ieviest ātrumu saskarnē tas ir ļoti atkarīgs no satura, kas mājos saskarnē, jo vairāk saturs, jo notiek sarežģītāki procesi rodas ilgāks, laiks to visu pārstrādāt.
 Ričards: Ātrum ir svarīgks faktors, bet kā jau Miks minēja, sarežģīti ieviešams.
 Karīna: Manuprāt, tas ir svarīgi, bet to var pilveidot vēlāk, kad pamata nepieciešamības jau realizētas
+Kristaps: Grūti saprotama un realizējama ideja UI kontekstā.
