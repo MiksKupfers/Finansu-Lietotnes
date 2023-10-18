@@ -5,3 +5,4 @@ Lietotnes hierarhija ir svarīgs elements intuitīvās navigācijas veidošanā.
 Komentāri:
 Miks: Izvēlos šo ideju.
 Ralfs: Ļoti laba ideja, domāju lietotāja, laiks pavadot meklējot konkrētu informāciju vienmēr ir jāsamazina un, optimizējot navigāciju tā ir ideāla ideja. Izvēlos ideju.
+Artūrs: Piekrītu kolēģiem par idejas nozīmību. Loģiska hierarhija manā skatījuma ir viena no lietām, kas padara saskarni izcilu. Izvēlos šo ideju (1). 
