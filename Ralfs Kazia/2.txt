@@ -1,0 +1,1 @@
+Meklēšanas funkcijas iekļaušana mājaslapas saskarnē, kas ir pieejama no pirmās lapas, lai uzlabotu lietotāju pieredzi un padarītu lietotāja pavadīto laiku meklējot noteiktu sadaļu vieglāku. Šāda funkcija ļauj lietotājiem ātri atrast nepieciešamo informāciju, vienkārši ievadot meklēšanā kādu frāzi vai vārdu kopu. 
