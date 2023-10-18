@@ -5,3 +5,4 @@ Uzsvars tiek likts uz lietotnes funkcionalitāti, kas padara lietotāja pieredzi
 Komentāri:
 Miks: Ideja ir laba, taču manuprāt svarīgāka ir intuitīva navigācija.
 Ralfs: Ideja nozīmīga, bet ne vienmēr visām situācijām var piemērot vienkāršotību un minimālismu.
+Artūrs: Piekrītu Ralfa teiktajam - ne vienmēr saskarne varēs būt minimalistiska, tāpēc fundamentālāk ir veidot intuitīvu un loģisku saskarni - dizainu pielāgot, ja tas ir iespējams un nepieciešams. 
