@@ -5,4 +5,4 @@ Ralfs: Ideja ir laba un es to izvēlos, jo informācijas ļoģiska pasniegšana 
 Ričards: Izvēlos šo ideju, jo tā ir būtiska klienta saskarnei ar mājaslapu, lietotni.
 Karīna: šis iet nosacīti kopā ar skaidru navigāciju, bet tas likās svarīgāk
 Kristaps: Manuprāt labākā ideja, skaidra lietotnes hierarhija un paredzams lietotāja stāsts ir ļoti svarīgs, lai jaunais lietotājs ātri pierastu pie UI izmantošanas.
-Artūrs: Viens no pamatprincipiem, kas atšķir labu no izcilas saskarnes - izvēlos šo ideju. 
+Artūrs: Viens no pamatprincipiem, kas atšķir labu no izcilas saskarnes.
