@@ -5,3 +5,5 @@ Ralfs:Ideja ir laba, bet ne vienmēr tā būs piemērojama visās situācijās, 
 viss ir samētāts vienā saskarnē pa vietām un nav nekādas loģiskas secības. Piemēram, ka piemērā kur vienu brīdi ir redzami pulksteņi, bet tajā pašā lapā zemāk ir piedāvāti raksti, kuri iespējams ir saistīti ar pulksteņiem, bet tas nav primārais uzsvars vairs. Bet mans viedoklis ir subjektīvs un ne visiem tā var likties.
 Artūrs: Manuprāt šis nav attiecināms kā universāls princips, lai gan piemēra gadījumā tiek veikts ļoti kvalitatīvi un patīkami. 
 Ričards: Ideja nav piemērojama, attiecināma visiem projektiem, tāpēc uzskatu, ka šo ideju nevarētu pieskaitīt pie saskarnes principiem.
+Karīna: Ideja ir interesanta, bet, manuprāt, sākotnēji svarīgāk ir izstrādāt primārās funkcijas un šo var pievienot vēlāk, ja tas ir iespējams, konkrētajai lietotnei.
+Kristaps: Implementējot šo ideju var rasties lieki aizpildīta vieta uz ekrāna

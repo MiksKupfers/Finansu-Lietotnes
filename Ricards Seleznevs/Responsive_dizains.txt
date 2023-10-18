@@ -3,3 +3,6 @@ Responsīvs jeb adaptīvs dizains, kas pielāgojas ierīču izmēriem (Piemēram
 Komentāri:
 Miks: Svarīga funkcija visām mūsdienu aplikācijām un mājaslapām.
 Ralfs: izvēlos ideju, jo tas ir vajadzīgs visām saskarnēm mūsdienās.
+Karīna: Izvēlos šo ideju, jo svarīgi, ņemot vērā, ka tiek izmantotas dažādas ierīces mūsdienas, ar atšķirīgām izšķirtspējām
+Kristaps: Laba ideja, bet šo jau izvēlējos Ralfam tādēļ ņemu citu
+Artūrs: Piekrītu, ka ideja ir laba - komentāru nav, jo tika atstāti iepriekš. 
