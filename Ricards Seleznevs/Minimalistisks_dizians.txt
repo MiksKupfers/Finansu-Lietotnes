@@ -5,3 +5,4 @@ Komentāri:
 Miks: Nav komentāru, jo šis jau tika pieminēts arī iepriekš. Ideja ir laba, taču manurpāt Dark Mode ideja ir labaka.
 Ralfs: Ideja ir svarīga, bet nevienmēr ir piemērojama, atšķirībā no satura.
 Karīna: Svarīgi, bet var pielāgot vēlāk, ja ir responsive design, var apvienot abus
+Kristaps: Jāpiesargās, ka minimālistiskais dizains nav pārāk minimālistisks un svarīga funkcionalitāte nav nogrūsta kaut kur tālu
