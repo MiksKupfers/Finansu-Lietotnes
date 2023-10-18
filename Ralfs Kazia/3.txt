@@ -5,3 +5,4 @@ Ričards: Izvēlos šo ideju, jo kā jau citu idejās minēts, būtiska dizaina 
 Karīna: IZvēlos šo ideju, jo svarīgs aspekts, ņemot vērā, ka tiek izmantotas dažādas ierīces, lai darbotos.
 Kristaps: Manuprāt labākā no idejām. Tīmekļa lietotnes bieži tiek izmantotas no dažādām platformām un nepieciešams tām pielāgoties
 Artūrs: Esmu bieži saskāries ar pretējo, taču kopš izstrādes tehnoloģijas ir attīstijušās šī šķiet kā retāka problēma. 
+Miks: Izvēlos šo ideju, jo tas ir svarīgs aspekts, kuru ir nepieciešams implementēt
