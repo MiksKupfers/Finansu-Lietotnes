@@ -1,1 +1,4 @@
 Responsīvs dizains, saskarnei ir būtisks, lai nodrošinātu, saskarnes pieejamību un piemērotu visiem populārākajiem displeja izmēriem un dažādām ierīcēm, gan jaunām, gan vecām sistēmām. Lai saskarnē nerastos problēmas ar melniem logiem abās pusēs, piemēram, ja saskarne ir tikai pielāgota vienam telefona izmēram, bet citā saskarne izskatās piemērota citam telefona izmēram.
+
+
+Ričards: Izvēlos šo ideju, jo kā jau citu idejās minēts, būtiska dizaina elements, bez kura mūsdienas mājaslapas nav ieteicams veidot.
