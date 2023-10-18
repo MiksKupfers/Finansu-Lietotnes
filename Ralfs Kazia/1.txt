@@ -1,6 +1,0 @@
-1.Mērķis ir izvairīties no liekām kustībām, rezultāta padarot lietošanu patīkamāku.Dizainu pielietotu saskarnēs, kurās ir vairāki logi, tos varētu likt vienus pie otra horizontāli blakus, lai lapas platums tiktu izmantots efektīvi. Ja vienā rindā tiek vairāki logi novietoti tikai vertikāli vieni zem otra, bet horizontāli netiek izmantota vieta lietderīgi, rodas neērts tukšums saskarnē.
-
-Ričards: Noderīga ideja, bet nepareizi ieviešot, var rasties problēma, ka klients nespēs orientēties dizainā, pārlieku daudz izvietoto elementu dēļ.
-Karīna: Lietojams tikai ja ir responsive design, jo citādi lietas var pārklāties
-Kristaps: Var rasties situācija, ka vairāki elementi, kas šķietami izvietoti uz ekrāna var radīt apjukumu lietotājam
-Miks: Piekrītu Kristapa komentāram, ka tie var radīt apjukumu.

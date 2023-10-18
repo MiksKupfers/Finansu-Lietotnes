@@ -1,7 +1,0 @@
-Meklēšanas funkcijas iekļaušana mājaslapas saskarnē, kas ir pieejama no pirmās lapas, lai uzlabotu lietotāju pieredzi un padarītu lietotāja pavadīto laiku meklējot noteiktu sadaļu vieglāku. Šāda funkcija ļauj lietotājiem ātri atrast nepieciešamo informāciju, vienkārši ievadot meklēšanā kādu frāzi vai vārdu kopu. 
-
-Ričards: Grūti ievīšams koncepts, jo jāparedz visi lietotāja domātie ievades gadījumi.
-Karīna: Laba ideja, protams, noderīgi, bet nav primārais, ko realizēt, pie kam diez gan sarežģīti
-Kristaps: Gandrīz jebkurā lietotnē svarīga funkcija ir meklēšana, bet jāpievērš uzmanība tās implementācijā, lai meklēšana strādātu veiksmīgi nedrīkst būt case-sensetive, iespējams jāiekļauj kāds wild card elements (*) u.c.
-Artūrs: Uzskatu šo par pamatu, kas lielākoties jau ir ieviests. Vērts piebilst, ka pārsvarā gan ir neefektīvs un/vai neprecīzs.
-Miks: Uzskatu šo par svarīgu pamatu mājaslapām, taču tā nevienmēr ir nepieciešama mājaslapā.
