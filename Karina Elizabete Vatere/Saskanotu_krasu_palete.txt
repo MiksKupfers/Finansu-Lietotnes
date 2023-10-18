@@ -6,3 +6,4 @@ Miks: Pārāk grūti pieskaņoties katram cilvēkam, jo katrs cilvēks iespējam
 Ralfs: Piekrītu, ka krāsās nedrīkst būt agresīvas un krāsām jārada atmosfēra, kas liks lietotājam atgriesties pie saskarnes.
 Artūrs: Krāsu paletes izvēle ir būtiska ideja patīkamai saskarnei, tā bieži vien ir galvenā asociācija par aplikāciju/mājaslapu.  
 Ričards: Krāsu palete ir svarīgs aspkets efektīvai saskarnei, kas attēlo uznēmuma identitāti.
+Kristaps: Arī svarīgs aspekts UI izstrādē, tomēr priekšroku dodu atsaucīgam dizainam. 
