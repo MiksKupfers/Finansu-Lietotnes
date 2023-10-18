@@ -7,3 +7,4 @@ Miks: Manuprāt, kļūdu paziņojumi ir svarīgs aspekts, taču no tiem ir jām�
 Ralfs: Paziņojumi ir svarīgi, bet tie lietotājam ir jāpasniedz pareizi, lai tiem nebūtu bieži tie jāredz un neizraisa trauksmi un ideālākā gadijumā, saskarnei vajadzētu peč lietotāja ievades veikt korekcijas, ja kaut, kas nav pareizi, tad saskarne veic korekcijas un piedāvā tās, kā alternatīvu.
 Artūrs: Kļūdu apstrāde un paziņojumi ir nepieciešami backend'ā un uzskatu, ka lietotājam ar paziņojumiem ir jāsaskarās tikai retos gadījumos, kad tas tiešām ir būtiski. 
 Ričards: Ideja noderīga, taču jāizvairās, lai klientam vipār rastos iespēja ievadīt kļūdas un samazināt to iespējamību.
+Karīna: IZvēlos šo ideju, svarīgs aspekts, lai saprastu savas rīcības, ja tās nav pareizas.
