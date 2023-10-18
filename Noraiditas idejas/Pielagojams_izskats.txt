@@ -1,0 +1,7 @@
+Lietotāja saskarni uzlabotu iespēja katram izvēlēties pēc savām vēlmēm kādu motīvu/fonu katrs vēlas, t.i. izvēlēties "light-mode" vai "dark-mode", tas dod iespēju cilvēkam izvēlēties, kādā veidā, katram ērāk uztvert informāciju un kurš izskats ir patīkamāks
+
+Komentāri:
+Miks: Šī ir labākā ideja, jo light mode un dark mode ir ļoti svarīga funkcija mūsdienu aplikācijās/mājaslapās.
+Ralfs: Domāju, ka ideja ir (essential) mūsdienās ar cilvēkiem kuriem ir dažādi darba laiki un dažādas velmes, tas ļauj lietotājam kautkādā veidā pielāgot saskarni savām vajadzībām un gribēšanai. Balsoju par ideju.
+Artūrs: Lai gan personalizācija ir patīkama opcija, manuprāt bieži būs situācijas, kurās personalizācija sarežģī un bojā saskarni. Neskatoties uz to, light/dark mode ir būtiska implementācija. 
+Ričards: Noderīgs punkts, jo mūsdienas cilvēku gaumes dalās un ir svarīgi apmierināt lielākumu.
