@@ -5,3 +5,4 @@ Miks: Izvēlos šo ideju.
 Ralfs: Laba ideja domāju, ka tā mūsdienās ir ļoti svarīga.
 Karīna: Laba ideja, ko vienmēr var ieviest, bet nav primārais
 Kristaps: Izvēlos šo ideju, subjektīvi varu pateikt, ka bieži lietoju dark mode, jo patīkamāk acīm
+Artūrs: Light/Dark mode ir būtisks, taču pārlieku daudz dizaina opcijas bieži vien sarežģī aplikāciju un atver citas problēmas dizainā/pārskatamībā.
