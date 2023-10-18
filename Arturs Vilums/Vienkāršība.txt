@@ -9,4 +9,4 @@ Komentāri:
  rodas daudz jaunu elementu, kas aizpilda UI, bet lietas, kuras var viegli pasniegt domāju tām ideja ir jaizmanto.
  Ričards: Kaut arī iepriekšējās idejas ir iktuālas, uzskatu, ka šī ir piemērotākā, kas atvieglos lietotāja majaslapas lietošanu.
  Karīna: Laba ideja, izvēlos šo, vienkāršība ir svarīgs aspekts, lai katrs varētu lietot aplikāciju
-Kristaps: Manuprāt labākā ideja
+ Kristaps: Manuprāt labākā ideja
